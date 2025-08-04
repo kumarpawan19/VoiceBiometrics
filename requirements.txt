@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+resemblyzer
+numpy
+soundfile
+openai
