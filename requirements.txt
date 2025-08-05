@@ -1,6 +1,8 @@
-fastapi
-uvicorn
-resemblyzer
-numpy
-soundfile
-openai
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+sqlalchemy[asyncio]==2.0.42
+asyncpg==0.30.0
+resemblyzer==0.1.4
+cryptography
+python-dotenv
+alembic==1.16.4
