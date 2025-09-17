@@ -1,0 +1,28 @@
+{
+  "timestamp": "2025-09-17T21:32:18.309483",
+  "tests": [
+    {
+      "name": "API Health",
+      "status": "PASS"
+    },
+    {
+      "name": "Voice Enrollment",
+      "status": "PASS",
+      "user_id": "test_user_1758124938"
+    },
+    {
+      "name": "Positive Verification",
+      "status": "PASS",
+      "similarity": 0.968,
+      "verified": true
+    },
+    {
+      "name": "Liveness Phrase",
+      "status": "PASS",
+      "phrase": "I love sunny mornings"
+    }
+  ],
+  "metrics": {
+    "genuine_score": 0.968
+  }
+}
